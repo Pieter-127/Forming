@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Forming</string>
+    <string name="username_empty">Please enter a username</string>
+    <string name="password_empty">Please enter a password</string>
+    <string name="username">Username</string>
+    <string name="username_empty_error">Please enter a username</string>
+    <string name="password">Password</string>
+    <string name="password_empty_error">Please enter a password</string>
+    <string name="keep_me_logged_in">Keep me logged in</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="create_account_text">Don\'t have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login_title_1">Hello</string>
+    <string name="login_title_2">World</string>
+    <string name="hide_password">Hide password</string>
+    <string name="show_password">Show password</string>
+
+</resources>
